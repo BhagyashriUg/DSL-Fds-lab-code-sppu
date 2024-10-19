@@ -1,3 +1,8 @@
+#ASSIGNMENT 10
+
+'''Q.10] WRITE C++ PROGRAM USING STACK TO CHECK WHETHER GIVEN STRING IS WELL PARENTHESIZED OR NOT .'''
+
+# ANSWER :>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #include <iostream>
 using namespace std;
 int i;
